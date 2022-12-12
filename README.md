@@ -2,7 +2,7 @@
   # E-Commerce-Backend   [![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blueviolet&style=for-the-badge)](https://opensource.org/licenses/MIT)
     
   ## Description
-  Modified Code to connect back end to the pre built front end for a e-commerce shop
+E-commerce stock management, using sql backend
   
   
   ## Table of Contents
@@ -29,6 +29,8 @@
   Copyright (c) tommyalv. All rights reserved.
   Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
     
+  ## Screenshot
+   ![screenshot](/assets/EcommerceBackend.gif)
   
   
   ## Questions
